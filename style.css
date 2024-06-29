@@ -1,0 +1,28 @@
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    margin: 20px;
+    
+}
+p{
+    width: 500px;
+}
+#head{
+    font-size: 12rem;
+    font-weight: 900;
+    background-image: url(./images/Galaxies.jpeg);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+#inner{
+    font-size: 2rem;
+    font-weight: 800;
+}
+button{
+    width: 250px;
+}
